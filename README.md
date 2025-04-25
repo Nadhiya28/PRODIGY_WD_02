@@ -14,9 +14,9 @@
 ## 📁 Project Structure
 PRODIGY_WD_02/
 ├── index.html # HTML structure of the app 
-├── style.css # Retro theme styling 
-├── script.js # Stopwatch functionality 
-└── README.md # Project documentation
+   ├── style.css # Retro theme styling 
+      ├── script.js # Stopwatch functionality 
+         └── README.md # Project documentation
 
 ```markdown
 ## 🛠️ Built With

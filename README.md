@@ -18,7 +18,6 @@ PRODIGY_WD_02/
       ├── script.js # Stopwatch functionality 
          └── README.md # Project documentation
 
-```markdown
 ## 🛠️ Built With
 - HTML5  
 - CSS3  

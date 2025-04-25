@@ -29,7 +29,7 @@ PRODIGY_WD_02/
 To run the project locally:
 
 1. Clone or download the repository to your local machine:
-   ```
+   ```bash
    git clone https://github.com/Nadhiya28/PRODIGY_WD_02.git
    ```
 

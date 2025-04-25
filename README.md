@@ -18,24 +18,43 @@ PRODIGY_WD_02/
 ├── script.js # Stopwatch functionality 
 └── README.md # Project documentation
 
-🛠️ Built With
-HTML5
-CSS3
-JavaScript (ES6)
+```markdown
+## 🛠️ Built With
+- HTML5  
+- CSS3  
+- JavaScript (ES6)
 
-##Installation:
+## 📦 Installation
 
 To run the project locally:
-1. Clone or download the repository to your local machine.
-2. Open PRODIGY_WD_02.html in any modern web browser to start using the stopwatch.
 
-##Usage:
-Start the stopwatch by clicking the start button.
-Stop the stopwatch by clicking the stop button.
-Reset the stopwatch to 0 by clicking the reset button.
+1. Clone or download the repository to your local machine:
+   ```bash
+   git clone https://github.com/your-username/PRODIGY_WD_02.git
+   ```
 
-##Contributing:
-Feel free to fork the repository and make improvements or add new features. Please submit a pull request for any changes.
+2. Navigate to the project directory:
+   ```bash
+   cd PRODIGY_WD_02
+   ```
 
-##License:
-This project is open-source and available under the MIT License.
+3. Open `index.html` in any modern web browser to start using the stopwatch.
+
+## 🧑‍💻 Usage
+
+- 🟢 **Start** the stopwatch by clicking the **Start** button.  
+- ⏸️ **Pause** the stopwatch by clicking the **Pause** button.  
+- 🔄 **Reset** the stopwatch to 00:00:00 by clicking the **Reset** button.  
+- 🏁 **Lap** records the current time and adds it to the list.
+
+## 🤝 Contributing
+
+Feel free to fork the repository and make improvements or add new features.  
+Pull requests are welcome!
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+```
+
+-

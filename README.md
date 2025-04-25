@@ -30,15 +30,15 @@ To run the project locally:
 
 1. Clone or download the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/PRODIGY_WD_02.git
+   git clone https://github.com/Nadhiya28/PRODIGY_WD_02.git
    ```
 
 2. Navigate to the project directory:
-   ```bash
-   cd PRODIGY_WD_02
+   ```
+   PRODIGY_WD_02
    ```
 
-3. Open `index.html` in any modern web browser to start using the stopwatch.
+3. Open `PRODIGY_WD_02.html` in any modern web browser to start using the stopwatch.
 
 ## 🧑‍💻 Usage
 
@@ -56,5 +56,3 @@ Pull requests are welcome!
 
 This project is open-source and available under the **MIT License**.
 ```
-
--
